@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "578650834871",
+    "project_id": "cloudanchor-1a9f3",
+    "storage_bucket": "cloudanchor-1a9f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578650834871:android:de1b08e0f5d7ba98ed8a32",
+        "android_client_info": {
+          "package_name": "io.carius.lars.rd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578650834871-8ef97s746nmj1kt5g50bua22mjuadadp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.carius.lars.rd",
+            "certificate_hash": "6eb4217c362e567adee192ab4b63627dc1ef0615"
+          }
+        },
+        {
+          "client_id": "578650834871-513sgdpb49qud4o836qs8r4153qv1vka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofchI43ngyll6M-2G1515ol9d61NYmsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578650834871-513sgdpb49qud4o836qs8r4153qv1vka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
